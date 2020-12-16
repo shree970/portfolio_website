@@ -123,8 +123,8 @@ const PensievePage = ({ location, data }) => {
   return (
     <Layout location={location}>
       <Helmet>
-        <title>Pensieve | Alley Hector</title>
-        <link rel="canonical" href="https://alleyhector.com/pensieve" />
+        <title>Pensieve | Shreeyash Pawar</title>
+        <link rel="canonical" href="https://shreeyash.netlify.com/pensieve" />
       </Helmet>
 
       <StyledMainContainer>
