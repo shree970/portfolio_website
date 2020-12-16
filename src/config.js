@@ -4,10 +4,10 @@ module.exports = {
     'Portfolio for Shreeyash Pawar, Data Scientist, Engineer, Developer',
   siteKeywords:
     'Shreeyash,Pawar,Developer,Data Scientist,Python',
-  siteUrl: 'https://shree-pawar.netlify.com',
+  siteUrl: 'https://shreeyash.netlify.com',
   siteLanguage: 'en_US',
-  // googleAnalyticsID: 'UA-11079764-4',
-  // googleVerification: '8ewKpV-UpRO4Zn1ITh_gNvwiE8UM0226Srz04Ti8o9g',
+  googleAnalyticsID: 'G-180VVQY24J',
+  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Shreeyash Pawar',
   location: 'Bangalore',
   email: 'shreeyash.s.pawar@gmail.com',

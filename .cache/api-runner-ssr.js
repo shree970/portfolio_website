@@ -9,16 +9,13 @@ var plugins = [{
       options: {"plugins":[]},
     },{
       plugin: require('/media/shreeyash-legion/Stuff/Resumes/Resume_level2/website/portfolio_website/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"AlleyHector","short_name":"AlleyHector","start_url":"/","display":"minimal-ui","icon":"src/images/logo.png","cache_busting_mode":"query","include_favicon":true,"legacy":true,"theme_color_in_head":true,"cacheDigest":"9bc492484693c54c455b632f5e579183"},
+      options: {"plugins":[],"name":"ShreeyashPawar","short_name":"ShreeyashPawar","start_url":"/","display":"minimal-ui","icon":"src/images/logo3.png","cache_busting_mode":"query","include_favicon":true,"legacy":true,"theme_color_in_head":true,"cacheDigest":"0e0cec6f0cfee4a2d1d2bce1ca7f94c7"},
     },{
       plugin: require('/media/shreeyash-legion/Stuff/Resumes/Resume_level2/website/portfolio_website/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[]},
     },{
       plugin: require('/media/shreeyash-legion/Stuff/Resumes/Resume_level2/website/portfolio_website/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
-      options: {"plugins":[]},
-    },{
-      plugin: require('/media/shreeyash-legion/Stuff/Resumes/Resume_level2/website/portfolio_website/node_modules/gatsby-plugin-prefetch-google-fonts/gatsby-ssr'),
-      options: {"plugins":[],"fonts":[{"family":"Raleway","variants":["400","700","400i","700i"]},{"family":"Roboto Condensed","variants":["400","700","400i","700i"]}]},
+      options: {"plugins":[],"trackingId":"G-180VVQY24J"},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [

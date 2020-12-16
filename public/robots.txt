@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://shreeyash.netlify.com/sitemap.xml
+Host: https://shreeyash.netlify.com
