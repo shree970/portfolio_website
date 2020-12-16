@@ -4,7 +4,7 @@ module.exports = {
     'Portfolio for Shreeyash Pawar, Data Scientist, Engineer, Developer',
   siteKeywords:
     'Shreeyash,Pawar,Developer,Data Scientist,Python',
-  siteUrl: 'https://alleyhector.com',
+  siteUrl: 'https://shree-pawar.netlify.com',
   siteLanguage: 'en_US',
   // googleAnalyticsID: 'UA-11079764-4',
   // googleVerification: '8ewKpV-UpRO4Zn1ITh_gNvwiE8UM0226Srz04Ti8o9g',

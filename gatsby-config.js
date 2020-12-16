@@ -23,13 +23,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'AlleyHector',
-        short_name: 'AlleyHector',
+        name: 'ShreeyashPawar',
+        short_name: 'ShreeyashPawar',
         start_url: '/',
         background_color: config.darkNavyColor,
         theme_color: config.navyColor,
         display: 'minimal-ui',
-        icon: 'src/images/logo.png',
+        icon: 'src/images/logo3.png',
       },
     },
     `gatsby-plugin-offline`,

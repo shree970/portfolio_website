@@ -2,10 +2,10 @@
   "name": "v4",
   "description": "Personal Website V4",
   "version": "1.0.0",
-  "author": "Alley Hector <alley@qpdx.com>",
+  "author": "Shreeyash Pawar <shreeyash.s.pawar@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alleyhector/portfolio"
+    "url": "https://github.com/shree970/portfolio_website"
   },
   "keywords": [
     "gatsby"
